@@ -4,7 +4,7 @@
     <artifactId>demo-boot</artifactId>
     <name>DemoBoot</name>
     <description>Demo App using Spring boot</description>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>1.0-RELEASE</version>
     <parent>
         <groupId>org.springframework.boot</groupId>
