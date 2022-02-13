@@ -30,7 +30,7 @@
 <!--Main Navigation-->
 <header>
 <nav class="navbar navbar-expand-lg navbar-dark default-color-dark fixed-top">
-    <a class="navbar-brand" href="/">App Name</a>
+    <a class="navbar-brand" href="/">Thinknyx</a>
 </nav>
 </header>
 
